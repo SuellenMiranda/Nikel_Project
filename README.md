@@ -1,6 +1,6 @@
 # Nikel Project
 
-The Nikel is a cost control program. 
+O projeto está finalizado e comsuas funções ativas. 
 
 > ⚠️ *Essas são as telas finais esperadas. Como ainda ta em andamento, o código sendo odado pode parecer diferente das imagens no momento* 
 
@@ -18,23 +18,11 @@ The Nikel is a cost control program.
 
 
 
-> ⚠️ *Novamente... O projeto ainda não está completo. Está em andamento.* 
-
-> ℹ️ *Ainda tem mais informações a ser dados. Que vão ser dissertados ao longo do processo do projeto, de acordo com as atualizações*
-
-
 ## O que temos internamente...
 
 | Até agora...                 |
 | :--------------------------: | 
 | `HTML`                       |
 | `CSS`                        |                                                                                                               
-| `JAVASCRIPT`                 |                                                                                                                
-| `...`                        |                                                                                                               
-
-
->  [ ⚠️ DRIVE - arquivos do projeto ⚠️ ](https://drive.google.com/drive/u/4/folders/1Ad8wbVhTUfcxINQNpGjrVyB-SIKy3ZDm)
-
-
-
+| `JAVASCRIPT`                 |
 
