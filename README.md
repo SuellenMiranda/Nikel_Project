@@ -1,5 +1,5 @@
 # Nikel Project
-<!--
+
 O projeto está finalizado e comsuas funções ativas. 
 
 > ⚠️ *Essas são exemplo das telas .* 
@@ -14,7 +14,7 @@ O projeto está finalizado e comsuas funções ativas.
 
 ## Tela == Transactions ==
 <img width="1437" alt="transactions" src="https://user-images.githubusercontent.com/62394959/154377423-cb66f2e4-32cc-474d-8931-bac515d4effa.png">
--->
+
 
 
 
